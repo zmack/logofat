@@ -1,0 +1,5 @@
+[package]
+
+name = "logofat"
+version = "0.0.1"
+authors = ["Andrei Bocan <zmaxor@gmail.com>"]
